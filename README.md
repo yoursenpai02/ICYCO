@@ -1,5 +1,5 @@
 
-# 🍦 [Ice Cream Parlour Website](https://ice-cream-parlour-website-one.vercel.app/) 🍨
+# 🍦 [Ice Cream Parlour Website](https://yoursenpai02.github.io/ICYCO/) 🍨
 
  ![Ice Cream Website Screenshot](/images/readme.png)
 
